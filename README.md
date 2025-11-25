@@ -10,7 +10,7 @@
 </p>
 
 <ul>
-    <li>🌱 I’m currently improving my skills in <b>Java, Python, and SQL</b>.</li>
+    <li>🌱 I’m currently improving my skills in <b>Java, JavaScript, and SQL</b>.</li>
     <li>🔭 Working on: <b>University projects and building my portfolio</b>.</li>
     <li>✨Outside tech, I’m a huge gamer 🎮 and an pro athlete 🏐 playing beach volleyball.</li>
 </ul>
