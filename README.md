@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Olá, eu sou a Maria Isabel Mariz! 👩‍💻</h1>
+  <h1>Olá, eu sou a Maria Isabel! 👩‍💻</h1>
   
   <p>
     🎓 Estudante de Ciência da Computação<br>
